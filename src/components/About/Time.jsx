@@ -5,7 +5,7 @@ const Time = () => {
   return (
     <div className={"h-screen "}>
       <Carousel variant="dark">
-        <Carousel.Item className={"h-screen  -mt-20  xl:-mt-40"}>
+        <Carousel.Item className={"h-screen  -mt-20  xl:-mt-20"}>
           <img
             className="d-block w-100  opacity-0"
             src="https://static.wixstatic.com/media/c837a6_6805a01e59934a1584ecebb1a8ecd14c~mv2.jpg/v1/crop/x_3725,y_1163,w_2973,h_4576/fill/w_240,h_336,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/GettyImages-932691626.jpg"
@@ -46,7 +46,7 @@ const Time = () => {
         </Carousel.Item>
 
 
-        <Carousel.Item className={"h-screen  -mt-20  xl:-mt-40"}>
+        <Carousel.Item className={"h-screen  -mt-20  xl:-mt-20"}>
           <img
               className="d-block w-100  opacity-0"
               src="https://static.wixstatic.com/media/c837a6_6805a01e59934a1584ecebb1a8ecd14c~mv2.jpg/v1/crop/x_3725,y_1163,w_2973,h_4576/fill/w_240,h_336,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/GettyImages-932691626.jpg"
@@ -88,7 +88,7 @@ const Time = () => {
         </Carousel.Item>
 
 
-        <Carousel.Item className={"h-screen  -mt-20  xl:-mt-40"}>
+        <Carousel.Item className={"h-screen  -mt-20  xl:-mt-20"}>
           <img
               className="d-block w-100  opacity-0"
               src="https://static.wixstatic.com/media/c837a6_6805a01e59934a1584ecebb1a8ecd14c~mv2.jpg/v1/crop/x_3725,y_1163,w_2973,h_4576/fill/w_240,h_336,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/GettyImages-932691626.jpg"
@@ -128,7 +128,7 @@ const Time = () => {
           </Carousel.Caption>
         </Carousel.Item>
 
-        <Carousel.Item className={"h-screen  -mt-20  xl:-mt-40"}>
+        <Carousel.Item className={"h-screen  -mt-20  xl:-mt-20"}>
           <img
               className="d-block w-100  opacity-0"
               src="https://static.wixstatic.com/media/c837a6_6805a01e59934a1584ecebb1a8ecd14c~mv2.jpg/v1/crop/x_3725,y_1163,w_2973,h_4576/fill/w_240,h_336,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/GettyImages-932691626.jpg"

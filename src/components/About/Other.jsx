@@ -1,9 +1,11 @@
 import React from "react";
+import './styles/Other.css'
 import { Card, CardGroup, Col, Container, Row } from "react-bootstrap";
 
 const Other = () => {
   return (
     <div>
+      <div className={'back w-screen bg-black'}></div>
       <h1>Otros articulos relacionados</h1>
       <CardGroup>
         <Card>

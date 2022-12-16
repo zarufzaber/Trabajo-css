@@ -13,7 +13,6 @@ const About = () => {
       <Journey />
       <Boos />
       <Time />
-      <img src="" alt="img" />
       <Other />
       <Footer />
     </div>
