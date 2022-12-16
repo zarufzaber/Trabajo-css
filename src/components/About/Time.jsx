@@ -3,11 +3,15 @@ import { Carousel } from "react-bootstrap";
 
 const Time = () => {
   return (
-    <div>
+    <div className={'h-96 mt-20'}>
       <Carousel variant="dark">
         <Carousel.Item>
-          <img className="d-block w-100" src="#" alt="First slide" />
-          <Carousel.Caption>
+          <img
+              className="d-block w-100 h-40 opacity-0"
+              src="https://static.wixstatic.com/media/c837a6_6805a01e59934a1584ecebb1a8ecd14c~mv2.jpg/v1/crop/x_3725,y_1163,w_2973,h_4576/fill/w_240,h_336,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/GettyImages-932691626.jpg"
+              alt="First slide"
+          />
+          <Carousel.Caption className={'border-2 border-black '}>
             <h5>2018</h5>
             <p>INICIA ASOCIACIÓN CON TRI-NEX Y TRANSPORTE GENERALES</p>
             <p>
@@ -19,8 +23,8 @@ const Time = () => {
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block w-100"
-            src="holder.js/800x400?text=Second slide&bg=eee"
+            className="d-block w-100 h-40 opacity-0"
+            src="https://static.wixstatic.com/media/c837a6_6805a01e59934a1584ecebb1a8ecd14c~mv2.jpg/v1/crop/x_3725,y_1163,w_2973,h_4576/fill/w_240,h_336,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/GettyImages-932691626.jpg"
             alt="Second slide"
           />
           <Carousel.Caption>
@@ -35,8 +39,8 @@ const Time = () => {
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block w-100"
-            src="holder.js/800x400?text=Third slide&bg=e5e5e5"
+            className="d-block opacity-0"
+            src="https://static.wixstatic.com/media/c837a6_6805a01e59934a1584ecebb1a8ecd14c~mv2.jpg/v1/crop/x_3725,y_1163,w_2973,h_4576/fill/w_240,h_336,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/GettyImages-932691626.jpg"
             alt="Third slide"
           />
           <Carousel.Caption>

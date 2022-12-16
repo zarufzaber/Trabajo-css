@@ -3,12 +3,12 @@ import './styles/Journey.css'
 const Journey = () => {
   return (
 
-    <div className="cuadro">
-      <div className="Titulo">
-        <p>NUESTRO TRAYECTO</p>
+    <div className=" grid w-full h-screen   ">
+      <div className=" w-full mt-10 text-morao ">
+        <p className={'text-center text-5xl md:text-7xl mx-20'}>NUESTRO TRAYECTO</p>
       </div>
 
-      <div className="Texto">
+      <div className="text-center mx-10 text-3xl -mt-20 md:mx-20 xl:mx-72 xl:px-72">
         <p>
         Creados para apoyar con una logistica 360 para las empresas, negocios y
         clientes. Hacemos que la tarea de la gestion logistica de las entregas
@@ -18,7 +18,7 @@ const Journey = () => {
         </p>
       </div>
       
-      <hr />
+      <hr className={'-mt-16 xl:-mt-40'}/>
     </div>
   );
 };
