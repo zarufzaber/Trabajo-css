@@ -20,7 +20,6 @@ const Boos = () => {
         <div className={"w-full"}>
           <div className="text-morao  text-sm mx-auto my-10  xl:text-lg">
             <p>JAIME POLO - CEO & FOUNDER</p>
-            <img src='src/components/About/resources/imagen_1.jpg' className={'bg-red-500 w-20 mx-auto'}/>
           </div>
 
           <div className="text-morao text-2xl mx-1">
