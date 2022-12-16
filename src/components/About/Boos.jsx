@@ -4,7 +4,7 @@ import "./styles/Boos.css";
 
 const Boos = () => {
   return (
-    <div className={"grid -mt-24 mx-auto xl:flex xl:h-screen  xl:-mt-72 xl:-mb-96"}>
+    <div className={"grid -mt-24 mx-auto 2xl:flex xl:h-screen  xl:-mt-72 xl:-mb-96"}>
       <div className={"w-full mb-4 xl:order-1 xl:mx-52"}>
         <img
           className={"w-60 mx-auto rounded-2xl xl:w-80 "}
