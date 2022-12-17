@@ -7,7 +7,7 @@ import Footer from "../components/Home/Footer";
 
 const Courier = () => {
   return (
-    <div>
+    <div className={''}>
       <NavBar />
       <Header />
       <Location />

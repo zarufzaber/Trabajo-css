@@ -8,7 +8,7 @@ import cobox from "../../utils/Recurso 2_10x.png";
 import "../../assets/styles/NavBar.css";
 const NavBar = () => {
   return (
-    <Navbar expand="lg" >
+    <Navbar expand="lg"  >
       <Container className="navbar-container">
         <Navbar.Brand href="/">
           <img className="logo" src={cobox} alt="Cobox" />
