@@ -8,7 +8,7 @@ module.exports = {
 
       fontFamily: {
         'mont': ['Montserrat'],
-        'futura':['Futura'],
+        'roboto':['Roboto'],
 
     },
     extend: {
