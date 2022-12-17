@@ -3,7 +3,7 @@ import { Carousel } from "react-bootstrap";
 
 const Time = () => {
   return (
-    <div className={"h-screen "}>
+    <div className={"h-screen font-roboto "}>
       <Carousel variant="dark">
         <Carousel.Item className={"h-screen  -mt-20  xl:-mt-20"}>
           <img
@@ -16,7 +16,7 @@ const Time = () => {
               <h5 className={"text-morao text-justify text-5xl mx-4 my-4"}>
                 2016
               </h5>
-              <p className={"text-morao text-start mx-4 my-4"}>
+              <p className={"text-morao text-start mx-4 my-4 font-mont font-bold"}>
                 ABRE LA SEDE DE GDL
               </p>
               <p className={"text-justify mx-4"}>
@@ -33,7 +33,7 @@ const Time = () => {
                 2017
               </h5>
 
-              <p className={"text-morao text-start mx-4 my-4"}>
+              <p className={"text-morao text-start mx-4 my-4 font-mont font-bold"}>
                 SE MANEJA EL PRIMER PROTOTIPO
               </p>
               <p className={"text-justify mx-4"}>
@@ -57,7 +57,7 @@ const Time = () => {
               <h5 className={"text-morao text-justify text-5xl mx-4 my-4"}>
                 2018
               </h5>
-              <p className={"text-morao text-start mx-4 my-4"}>
+              <p className={"text-morao text-start mx-4 my-4 font-mont font-bold"}>
                 INICIA ASOCIACIÓN CON TRI-NEX Y TRANSPORTE GENERALES
 
               </p>
@@ -74,7 +74,7 @@ const Time = () => {
               <h5 className={"text-morao text-justify text-5xl mx-4 my-4"}>
                 2019
               </h5>
-              <p className={"text-morao text-start mx-4 my-4"}>
+              <p className={"text-morao text-start mx-4 my-4 font-mont font-bold"}>
                 SE AMPLÍA LA PRUEBA A ARIZONA Y NUEVO MÉXICO
 
               </p>
@@ -99,7 +99,7 @@ const Time = () => {
               <h5 className={"text-morao text-justify text-5xl mx-4 my-4"}>
                 2020
               </h5>
-              <p className={"text-morao text-start mx-4 my-4"}>
+              <p className={"text-morao text-start mx-4 my-4 font-mont font-bold"}>
                 COMIENZA LA PRODUCCIÓN!
               </p>
               <p className={"text-justify mx-4"}>
@@ -112,10 +112,10 @@ const Time = () => {
 
             </div>
             <div className={'border-2 border-black rounded-2xl  xl:h-80 xl:w-1/2 xl:mx-auto xl:mr-60'}>
-              <h5 className={"text-morao text-justify text-5xl mx-4 my-4"}>
+              <h5 className={"text-morao text-justify text-5xl mx-4 my-4 "}>
                 2021
               </h5>
-              <p className={"text-morao text-start mx-4 my-4"}>
+              <p className={"text-morao text-start mx-4 my-4 font-mont font-bold"}>
                 SE VENDEN LOS PRIMEROS 1000 AUTOS
 
               </p>
@@ -139,7 +139,7 @@ const Time = () => {
               <h5 className={"text-morao text-justify text-5xl mx-4 my-4"}>
                 2020
               </h5>
-              <p className={"text-morao text-start mx-4 my-4"}>
+              <p className={"text-morao text-start mx-4 my-4 font-mont font-bold"}>
                 ANALIZANDO EL MERCADO DE ENTREGAS
               </p>
               <p className={"text-justify mx-4"}>
@@ -155,7 +155,7 @@ const Time = () => {
               <h5 className={"text-morao text-justify text-5xl mx-4 my-4"}>
                 2022
               </h5>
-              <p className={"text-morao text-start mx-4 my-4"}>
+              <p className={"text-morao text-start mx-4 my-4 font-mont font-bold"}>
                 SE LANZA UNA PLATAFORMA DE LOGÍSTICA INTEGRAL DE ÚLTIMA MILLA
 
               </p>

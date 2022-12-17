@@ -5,7 +5,7 @@ const Journey = () => {
 
     <div className=" grid w-full h-screen   ">
       <div className=" w-full mt-10 text-morao ">
-        <p className={'text-center text-5xl md:text-7xl mx-20'}>NUESTRO TRAYECTO</p>
+        <p className={'text-center text-5xl md:text-7xl mx-20 font-mont font-bold'}>NUESTRO TRAYECTO</p>
       </div>
 
       <div className="text-center mx-10 text-3xl -mt-20 md:mx-20  2xl:mx-60 xl:px-72">
