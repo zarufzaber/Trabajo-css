@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       colors:{
         'morao':"#4748d8",
+        'naranja':"#C45308"
       },
     },
   },
