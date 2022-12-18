@@ -42,13 +42,13 @@ const Vacancies = () => {
             fácil. Haz clic en "Editar texto" o doble clic aquí para agregar tu
             contenido y cambiar la fuente.
           </p>
-          <button
-            className={
-              "border-2 w-2/3 mx-auto border-white rounded-2xl h-10 hover:bg-gray-500 text-xl hover:text-2xl"
-            }
+          <a href="/#/courier/ingeniero-electrico"
+              className={
+                "border-2 text-center w-2/3 mx-auto border-white rounded-2xl h-10 hover:bg-gray-500 text-xl hover:text-2xl hover:text-white"
+              }
           >
             Aplica Ahora
-          </button>
+          </a>
         </div>
         <div
           className={
@@ -64,13 +64,13 @@ const Vacancies = () => {
             fácil. Haz clic en "Editar texto" o doble clic aquí para agregar tu
             contenido y cambiar la fuente.
           </p>
-          <button
-            className={
-              "border-2 w-2/3 mx-auto border-white rounded-2xl h-10 hover:bg-gray-500 text-xl hover:text-2xl"
-            }
+          <a href="/#/courier/ingeniero-electrico"
+              className={
+                "border-2 text-center w-2/3 mx-auto border-white rounded-2xl h-10 hover:bg-gray-500 text-xl hover:text-2xl hover:text-white"
+              }
           >
             Aplica Ahora
-          </button>
+          </a>
         </div>
         <div
           className={
@@ -86,13 +86,13 @@ const Vacancies = () => {
             fácil. Haz clic en "Editar texto" o doble clic aquí para agregar tu
             contenido y cambiar la fuente.
           </p>
-          <button
-            className={
-              "border-2 w-2/3 mx-auto border-white rounded-2xl h-10 hover:bg-gray-500 text-xl hover:text-2xl"
-            }
+          <a href="/#/courier/ingeniero-electrico"
+              className={
+                "border-2 text-center w-2/3 mx-auto border-white rounded-2xl h-10 hover:bg-gray-500 text-xl hover:text-2xl hover:text-white"
+              }
           >
             Aplica Ahora
-          </button>
+          </a>
         </div>
         <div
           className={
@@ -108,13 +108,13 @@ const Vacancies = () => {
             fácil. Haz clic en "Editar texto" o doble clic aquí para agregar tu
             contenido y cambiar la fuente.
           </p>
-          <button
+          <a href="/#/courier/ingeniero-electrico"
             className={
-              "border-2 w-2/3 mx-auto border-white rounded-2xl h-10 hover:bg-gray-500 text-xl hover:text-2xl"
+              "border-2 text-center w-2/3 mx-auto border-white rounded-2xl h-10 hover:bg-gray-500 text-xl hover:text-2xl hover:text-white"
             }
           >
             Aplica Ahora
-          </button>
+          </a>
         </div>
         <div
             className={
@@ -126,13 +126,13 @@ const Vacancies = () => {
             Envíanos tu CV
           </h1>
 
-          <button
+          <a href="/#/courier/ingeniero-electrico/form"
               className={
-                "border-2 w-2/3 mx-auto border-black rounded-2xl h-10 hover:bg-black text-xl hover:text-white"
+                " text-center border-2 w-2/3 mx-auto border-black rounded-2xl h-10 hover:bg-black text-xl hover:text-white"
               }
           >
             Enviar
-          </button>
+          </a>
         </div>
       </div>
     </div>
